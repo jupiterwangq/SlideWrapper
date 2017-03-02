@@ -3,6 +3,11 @@ SlideWrapper
 # 说明
 Android上仿QQ侧滑删除组件，任意布局用该组件包装后即可实现侧滑
 
+# 效果
+* 动态模式
+   ![](https://github.com/jupiterwangq/SlideWrapper/blob/master/effect1.gif)
+* 静态模式
+   ![](https://github.com/jupiterwangq/SlideWrapper/blob/master/effect2.gif)
 # 使用方法
 在布局中像下面这样把自己的view用SlideWrapper包装起来即可：
 ```Java
